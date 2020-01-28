@@ -1,2 +1,4 @@
-theme: jekyll-theme-architect
-# remote-theme: benbalter/retlab
+# theme: jekyll-theme-architect
+plugins:
+  - jekyll-remote-theme
+remote-theme: benbalter/retlab
