@@ -1,4 +1,4 @@
-# New Name 2
+# Funky new name
 just to get started
 
 # my first badge!
